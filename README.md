@@ -1,4 +1,4 @@
-# 🇮🇳 Hindi NLP Ambiguity Resolution using mBERT
+# Hindi NLP Ambiguity Resolution using mBERT
 
 This project focuses on understanding and classifying ambiguity in Hindi sentences using a Transformer-based model. Instead of relying on manual rules, the model learns contextual patterns using Multilingual BERT (mBERT).
 
